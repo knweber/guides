@@ -3,13 +3,18 @@ title: Indexes
 ---
 ## Indexes
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/computer-science/databases/indexes/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+At a high level, database indexes can be thought of like the index pages in the back of a textbook. If you're looking for a particular concept, rather than skimming the entire book, you can flip to the index and find which specific pages discuss that concept. Indexes in databases act in the same manner, allowing a user to more quickly find specific records using a reference to those records' "location" within the table.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+
+
+
+
+
+
+
+
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+<a href="https://medium.com/jimmy-farrell/the-basics-of-database-indexes-for-relational-databases-bfc634d6bb37">The Basics of Database Indexes for Relational Databases</a>
